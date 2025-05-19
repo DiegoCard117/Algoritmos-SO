@@ -24,7 +24,7 @@ Por fim, os arquivos com os códigos de ambos os algoritmos foram compartilhados
 - JavaScript
 - C++ (versão conceitual do algoritmo SRT)
 
-## 💻 Comandos para rodar (Necessita Node instalado)
+## ▶️ Comandos para rodar (Necessita Node instalado)
 
 - node .\round_robin.js
 - node .\srt.js
