@@ -17,7 +17,7 @@ Por fim, os arquivos com os códigos de ambos os algoritmos foram compartilhados
 - Diego Cardoso Chagas  
 - Maria Clara Duhau Manhães Macêdo Gomes  
 - Marcos Antonio de Oliveira Filho  
-- Lucas  
+- Lucas Alves Nascimento  
 
 ## 💻 Tecnologias Utilizadas
 
